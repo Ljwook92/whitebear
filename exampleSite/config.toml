@@ -59,26 +59,6 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-github"
     weight = 1
     url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://medium.com/@johndoe"
 
 
 [languages]
@@ -109,14 +89,14 @@ disqusShortname = "yourdiscussshortname"
 
 
     [languages.pt-br]
-        languagename = "Português"
-        title = "João Ninguém"
+        languagename = "Korean"
+        title = "하얀 곰"
 
         [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
+            author = "서 정 인"
+            info = "환영 합니다."
             description = "Sítio pessoal de João Ninguém"
-            keywords = "blog,desenvolvedor,pessoal"
+            keywords = "통계학, 베이지안, 빅데이터, 데이터마이닝, "
             footercontent = "Coloque algum texto aqui."
 
         [languages.pt-br.menu]
