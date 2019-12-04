@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
+    author = "Jung In Seo"
     description = "White Bear's personal website"
     keywords = "blog,bayesian,statistics, datamining"
     info = "Welcome to blog"
