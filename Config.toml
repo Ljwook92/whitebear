@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "johndoe"
+title = "White Bear"
 
 theme = "hugo-coder"
 
@@ -17,11 +17,11 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    description = "White Bear's personal website"
+    keywords = "blog,bayesian,statistics, datamining"
+    info = "Welcome to blog"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Enter a text here."
+    footercontent = "White bear's blog"
 
     dateformat = "January 2, 2006"
 
