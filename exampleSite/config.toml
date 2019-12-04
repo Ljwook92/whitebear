@@ -68,55 +68,21 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About"
+            name = "Publications"
             weight = 1
-            url = "about/"
+            url = "Publications/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "Reseach"
             weight = 2
-            url = "posts/"
+            url = "Reseach/"
 
             [[languages.en.menu.main]]
             name = "Projects"
             weight = 3
-            url = "projects/"
+            url = "Projects/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "Interest"
             weight = 5
-            url = "contact/"
-
-
-    [languages.pt-br]
-        languagename = "Korean"
-        title = "하얀 곰"
-
-        [languages.pt-br.params]
-            author = "서 정 인"
-            info = "환영 합니다."
-            description = "Sítio pessoal de João Ninguém"
-            keywords = "통계학, 베이지안, 빅데이터, 데이터마이닝, "
-            footercontent = "Coloque algum texto aqui."
-
-        [languages.pt-br.menu]
-
-            [[languages.pt-br.menu.main]]
-            name = "Sobre"
-            weight = 1
-            url = "about/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Projetos"
-            weight = 3
-            url = "projects/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Contato"
-            weight = 5
-            url = "contact/"
+            url = "Interest/"
