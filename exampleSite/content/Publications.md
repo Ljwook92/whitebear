@@ -3,7 +3,7 @@ title = "Papers"
 slug = "Publications"
 +++
 
-* [J. I. Seo (2019) Inference for an exponentiated Pareto record values based on the pivotal quantity, Journal of the Korean Data and Information Science Society, 30, 885-893.](10.7465/jkdi.2019.30.4.885)
+* [J. I. Seo (2019) Inference for an exponentiated Pareto record values based on the pivotal quantity, Journal of the Korean Data and Information Science Society, 30, 885-893.](http://dx.doi.org/10.7465/jkdi.2019.30.4.885)
 
 
 * [Cobra](https://github.com/spf13/cobra)
