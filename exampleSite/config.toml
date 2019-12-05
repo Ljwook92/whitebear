@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = <span style="color:blue">some"white bear"text</span>
+title = "white bear"
 
 theme = "hugo-coder"
 
