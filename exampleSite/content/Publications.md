@@ -89,3 +89,4 @@ progressively Type-II censoring, Communications for Statistical Applications and
 
 * [Y. Kim, S. B. Kang, S. H. Han and J. I. Seo (2011) Profile likelihood estimation of generalized half logistic distribution under progressively Type-II censoring, Journal of the Korean Data and Information Science Society, 22, 597-603.]
 
+## Accepted Papers
