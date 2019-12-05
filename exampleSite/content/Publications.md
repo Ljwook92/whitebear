@@ -24,7 +24,7 @@ slug = "Publications"
 
 * [J. I. Seo and S. B. Kang (2017) Inference for the two-parameter half-logistic distribution using pivotal quantities under progressively Type-II censoring schemes, Communications in Statistics-Theory and Methods, 46, 5462-5478.](https://doi.org/10.1080/03610918.2016.1161795)
 
-* [S. H. Bae, J. H. Lee, J. I. Seo and I. H. Kwon (2017) Comparison of Hemodynamic Variables Associated with Cardiac Output in Patients in the Intensive Care Unit, Journal of The Korean Society of Emergency Medicine, 28, 309-317.]
+* S. H. Bae, J. H. Lee, J. I. Seo and I. H. Kwon (2017) Comparison of Hemodynamic Variables Associated with Cardiac Output in Patients in the Intensive Care Unit, Journal of The Korean Society of Emergency Medicine, 28, 309-317.
 
 * [J. I. Seo and S. B. Kang (2017) More efficient inference using hybrid censored data from a continuous probability distribution with the scale parameter, Far East Journal of Mathematical Sciences, 101, 2043-2054.](https://doi.org/10.17654/MS101092043)
 
@@ -42,11 +42,11 @@ slug = "Publications"
 
 * [J. I. Seo and S. B. Kang (2016) An objective Bayesian analysis of the two-parameter half logistic distribution based on progressively Type-II censored samples, Journal of Applied Statistics, 43, 2172-2190.](https://doi.org/10.1080/02664763.2015.1134446)
 
-* [J. I. Seo and S. B. Kang (2016) A Bayesian hierarchical model for a bathtub-shape distribution based on Type-II hybrid censored samples, International Journal of Applied Mathematics and Statistics, 54, 42-50.]
+* J. I. Seo and S. B. Kang (2016) A Bayesian hierarchical model for a bathtub-shape distribution based on Type-II hybrid censored samples, International Journal of Applied Mathematics and Statistics, 54, 42-50.
 
 * [J. I. Seo and Y. Kim (2016) Statistical inference on Gumbel distribution using lower record values, Journal of the Korean Statistical Society, 45, 342-357.](http://dx.doi.org/10.1016/j.jkss.2015.12.002)
 
-* [Y. J. Seo, S. B. Kang and J. I. Seo (2015) Pivotal inference for the generalized logistic distribution based on progressively Type-II censored sample, International Journal of Applied Mathematics and Statistics, 53, 120-127.]
+* Y. J. Seo, S. B. Kang and J. I. Seo (2015) Pivotal inference for the generalized logistic distribution based on progressively Type-II censored sample, International Journal of Applied Mathematics and Statistics, 53, 120-127.
 
 * [J. I. Seo, S. B. Kang and K. M. Hwang (2015) A Hierarchical Bayesian estimation method for the Type-II generalized logistic distribution based on progressively Type-II censored samples, Far East Journal of Mathematical Sciences, 97, 1013-1022.](http://dx.doi.org/10.17654/FJMSAug2015_1013_1022)
 
@@ -60,7 +60,7 @@ slug = "Publications"
 
 * [J. I. Seo and Y. Kim (2014) Nonparametric Bayesian estimation on the exponentiated inverse Weibull distribution with record values, Journal of the Korean Data and Information Science Society, 25, 611-622.](https://doi.org/10.7465/jkdi.2014.25.3.611)
 
-* [J. I. Seo and S. B. Kang (2014) Bayesian analysis for the exponentiated half logistic distribution based on record values, International Journal of Applied Mathematics and Statistics, 52, 1-11.]
+* J. I. Seo and S. B. Kang (2014) Bayesian analysis for the exponentiated half logistic distribution based on record values, International Journal of Applied Mathematics and Statistics, 52, 1-11.
 
 * [J. I. Seo and S. B. Kang (2014) Predictions for Progressively Type-II Censored Failure Times from the Half Triangle Distribution, Communications of the Korean Statistical Society, 21, 93-103.](https://doi.org/10.5351/CSAM.2014.21.1.093)
 
@@ -80,13 +80,15 @@ slug = "Publications"
 
 * [Y. Kim, S. B. Kang and J. I. Seo (2011) Bayesian estimations on the exponentiated distribution family with Type-II right censoring, Communications for Statistical Applications and Methods, 18, 603-613.](http://dx.doi.org/10.5351/CKSS.2011.18.5.603)
 
-* [Y. Kim, S. B. Kang and J. I. Seo (2011) Bayesian estimation in the generalized half logistic distri- bution under progressively Type-II censoring, Journal of the Korean Data and Information Science Society, 22, 977-987.]
+* Y. Kim, S. B. Kang and J. I. Seo (2011) Bayesian estimation in the generalized half logistic distri- bution under progressively Type-II censoring, Journal of the Korean Data and Information Science Society, 22, 977-987.
 
 * [S. B. Kang and J. I. Seo (2011) Estimation in an exponentiated half logistic distribution under
 progressively Type-II censoring, Communications for Statistical Applications and Methods, 18, 657- 666.](https://doi.org/10.5351/CKSS.2011.18.5.657)
 
-* [Y. Kim, S. B. Kang and J. I. Seo (2011) Bayesian estimations on the exponentiated half triangle distribution under Type-I hybrid censoring, Journal of the Korean Data and Information Science Society, 22, 565-574.]
+* Y. Kim, S. B. Kang and J. I. Seo (2011) Bayesian estimations on the exponentiated half triangle distribution under Type-I hybrid censoring, Journal of the Korean Data and Information Science Society, 22, 565-574.
 
-* [Y. Kim, S. B. Kang, S. H. Han and J. I. Seo (2011) Profile likelihood estimation of generalized half logistic distribution under progressively Type-II censoring, Journal of the Korean Data and Information Science Society, 22, 597-603.]
+* Y. Kim, S. B. Kang, S. H. Han and J. I. Seo (2011) Profile likelihood estimation of generalized half logistic distribution under progressively Type-II censoring, Journal of the Korean Data and Information Science Society, 22, 597-603.
 
 ## Accepted Papers
+
+* J. I. Seo and Y. Kim (2019) Nonparametric prior elicitation for a binomial proportion, Communications in Statistics-Simulation and Computation.
