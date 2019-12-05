@@ -78,11 +78,7 @@ disqusShortname = "yourdiscussshortname"
             url = "Research/"
 
             [[languages.en.menu.main]]
-            name = "Projects"
+            name = "Study"
             weight = 3
-            url = "Projects/"
+            url = "Study/"
 
-            [[languages.en.menu.main]]
-            name = "Interest"
-            weight = 5
-            url = "Interest/"
