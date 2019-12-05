@@ -3,6 +3,8 @@ title = "About"
 slug = "About"
 +++
 
+"images/whitebear.jpeg"
+
 
 ## Jung In Seo
 
