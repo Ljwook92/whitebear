@@ -74,34 +74,18 @@ slug = "Publications"
 
 * [S. B. Kang, J. I. Seo and Y. Kim (2013) Estimation for two-parameter generalized exponential distribution based on records, Communications for Statistical Applications and Methods, 20, 29-39.](https://doi.org/10.5351/CSAM.2013.20.1.029)
 
-* [J. I. Seo, H. J. Lee and S. B. Kang (2012) Estimation for generalized half logistic distribution based on records, Journal of the Korean Data and Information Science Society, 23, 1249-1257.]()
+* [J. I. Seo, H. J. Lee and S. B. Kang (2012) Estimation for generalized half logistic distribution based on records, Journal of the Korean Data and Information Science Society, 23, 1249-1257.](https://doi.org/10.7465/jkdi.2012.23.6.1249)
 
-* [Y. Kim, J. I. Seo and S. B. Kang (2012) Bayesian estimators using record statistics of exponentiated inverse Weibull distribution, Communications for Statistical Applications and Methods, 19, 479-493.]
+* [Y. Kim, J. I. Seo and S. B. Kang (2012) Bayesian estimators using record statistics of exponentiated inverse Weibull distribution, Communications for Statistical Applications and Methods, 19, 479-493.](http://dx.doi.org/10.5351/CKSS.2012.19.3.479)
 
-* [Y. Kim, S. B. Kang and J. I. Seo (2011) Bayesian estimations on the exponentiated distribution family with Type-II right censoring, Communications for Statistical Applications and Methods, 18, 603-613.]
+* [Y. Kim, S. B. Kang and J. I. Seo (2011) Bayesian estimations on the exponentiated distribution family with Type-II right censoring, Communications for Statistical Applications and Methods, 18, 603-613.](http://dx.doi.org/10.5351/CKSS.2011.18.5.603)
 
 * [Y. Kim, S. B. Kang and J. I. Seo (2011) Bayesian estimation in the generalized half logistic distri- bution under progressively Type-II censoring, Journal of the Korean Data and Information Science Society, 22, 977-987.]
 
 * [S. B. Kang and J. I. Seo (2011) Estimation in an exponentiated half logistic distribution under
-progressively Type-II censoring, Communications for Statistical Applications and Methods, 18, 657- 666.]
+progressively Type-II censoring, Communications for Statistical Applications and Methods, 18, 657- 666.](https://doi.org/10.5351/CKSS.2011.18.5.657)
 
 * [Y. Kim, S. B. Kang and J. I. Seo (2011) Bayesian estimations on the exponentiated half triangle distribution under Type-I hybrid censoring, Journal of the Korean Data and Information Science Society, 22, 565-574.]
 
 * [Y. Kim, S. B. Kang, S. H. Han and J. I. Seo (2011) Profile likelihood estimation of generalized half logistic distribution under progressively Type-II censoring, Journal of the Korean Data and Information Science Society, 22, 597-603.]
 
-
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
