@@ -3,8 +3,7 @@ title = "About"
 slug = "About"
 +++
 
-![title](/images/Seo.jpeg){: width="50%" height="50%"}
-
+<img src="/images/Seo.jpeg" width="250" height="300">
 
 ## Jung In Seo
 
