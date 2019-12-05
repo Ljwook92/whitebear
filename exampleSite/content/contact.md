@@ -1,6 +1,6 @@
 +++
-title = "Contact"
-slug = "contact"
+title = "Reaserch"
+slug = "Reasearch Areas"
 +++
 
 Follow me, @johndoe.
