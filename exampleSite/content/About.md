@@ -25,6 +25,7 @@ slug = "About"
 
 * B.S. Statistics, Yeungnam University, Korea, 2009
 
+
 ## Professional Experiences
 
 * 2016 - Current Daejeon University
