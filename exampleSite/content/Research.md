@@ -1,6 +1,6 @@
 +++
 title = "Research"
-slug = "Research Areas"
+slug = "Research"
 +++
 
 
