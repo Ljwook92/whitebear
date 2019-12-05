@@ -11,7 +11,9 @@ slug = "About"
 * Daejeon University
   62, Daehak-ro, Dong-gu, Daejeon, 34520, Korea
   
-* Phone: 042.280.4447 e-mail: leehoo1928@gmail.com
+* Phone: 042.280.4447 
+
+* e-mail: leehoo1928@gmail.com
 
 * Website: http://home.dju.ac.kr/bigdata/professor/professor_04.html
 
