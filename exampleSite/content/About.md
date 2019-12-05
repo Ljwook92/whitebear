@@ -3,7 +3,7 @@ title = "About"
 slug = "About"
 +++
 
-![This is an image](images/Seo.jpeg)
+![Prof.Seo](images/Seo.jpeg)
 
 
 ## Jung In Seo
