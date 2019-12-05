@@ -3,7 +3,7 @@ title = "About"
 slug = "About"
 +++
 
-"images/whitebear.jpeg"
+![This is an image](images/Seo.jpeg)
 
 
 ## Jung In Seo
@@ -30,6 +30,5 @@ slug = "About"
 
 ## Professional Experiences
 
-* Assistant Professor Department of Big Data
 
 * 2016 - Current Daejeon University
