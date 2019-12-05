@@ -6,7 +6,7 @@ slug = "Publications"
 * [J. I. Seo (2019) Inference for an exponentiated Pareto record values based on the pivotal quantity, Journal of the Korean Data and Information Science Society, 30, 885-893.](http://dx.doi.org/10.7465/jkdi.2019.30.4.885)
 
 
-* [J. I. Seo and J. J. Song (2019) An Bayesian Approach Based on Dirichlet Process Mixture Model with Pareto Kernels for Upper Record Values, Applied Mathematical Modelling, 71, 363-374.]{https://doi.org/10.1016/j.apm.2019.02.018}
+* [J. I. Seo and J. J. Song (2019) An Bayesian Approach Based on Dirichlet Process Mixture Model with Pareto Kernels for Upper Record Values, Applied Mathematical Modelling, 71, 363-374.](https://doi.org/10.1016/j.apm.2019.02.018)
 * [Viper](https://github.com/spf13/viper)
 * [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
 * [Cast](https://github.com/spf13/cast)
