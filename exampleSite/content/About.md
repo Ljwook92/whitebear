@@ -3,7 +3,8 @@ title = "About"
 slug = "About"
 +++
 
-![Prof.Seo](images/Seo.jpeg)
+[params]
+    avatarurl = ![](images/Seo.jpeg)
 
 
 ## Jung In Seo
