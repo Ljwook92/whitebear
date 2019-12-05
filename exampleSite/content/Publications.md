@@ -3,10 +3,8 @@ title = "Papers"
 slug = "Publications"
 +++
 
-Hugo is a static site engine written in Go.
+* [J. I. Seo (2019) Inference for an exponentiated Pareto record values based on the pivotal quantity, Journal of the Korean Data and Information Science Society, 30, 885-893.](10.7465/jkdi.2019.30.4.885)
 
-
-It makes use of a variety of open source projects including:
 
 * [Cobra](https://github.com/spf13/cobra)
 * [Viper](https://github.com/spf13/viper)
