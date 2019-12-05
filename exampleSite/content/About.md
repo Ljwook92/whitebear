@@ -12,8 +12,6 @@ slug = "About"
 
 * Daejeon University
   62, Daehak-ro, Dong-gu, Daejeon, 34520, Korea
-  
-* Phone: 042.280.4447 
 
 * e-mail: leehoo1928@gmail.com
 
@@ -29,6 +27,5 @@ slug = "About"
 * B.S. Statistics, Yeungnam University, Korea, 2009
 
 ## Professional Experiences
-
 
 * 2016 - Current Daejeon University
