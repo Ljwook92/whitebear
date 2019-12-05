@@ -3,7 +3,7 @@ title = "About"
 slug = "About"
 +++
 
-![](images/Seo.jpeg)
+![](/images/Seo.jpeg)
 
 
 ## Jung In Seo
